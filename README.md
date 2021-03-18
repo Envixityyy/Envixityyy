@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Andro
+- 🌱 I’m currently learning C#, Python
+- 📫 Talk to me via Andro#1604
