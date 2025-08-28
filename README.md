@@ -1,4 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=envixityyy)](https://github.com/envixityyy/github-readme-stats)
+<a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/envixityyy/github-readme-stats)">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=envixityyy&layout=donut&theme=tokyonight"/>
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
