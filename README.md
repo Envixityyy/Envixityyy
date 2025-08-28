@@ -9,7 +9,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSC" width="45" height="45"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/envixityyy/ltseverydayyou/refs/heads/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/envixityyy/envixityyy/refs/heads/output/snake.svg" alt="Snake animation"/>
 
 <p align="center">
 <a href="https://open.spotify.com/user/lsb23umq54wmbcfn5ycat5huv">
