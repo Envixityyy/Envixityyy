@@ -2,7 +2,7 @@
 <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/envixityyy/github-readme-stats)">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=envixityyy&layout=donut&theme=tokyonight"/>
 </a>
-<a href="https://github.com/envixityyy/github-readme-stats"
+<a href="https://github.com/envixityyy/github-readme-stats">
 <img height=200 src="https://github-readme-stats.vercel.app/api?username=envixityyy&theme=tokyonight&rank_icon=github"/>
 </a>
 </p>
