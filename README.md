@@ -7,6 +7,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="45" height="45"/>
 </p>
 
-<center>
-![Spotify Recently Listened To](https://spotify-recently-played-readme.vercel.app/api?user=lsb23umq54wmbcfn5ycat5huv)
-</center>
+<p align="center">
+  <a href="https://open.spotify.com/user/lsb23umq54wmbcfn5ycat5huv">
+    <img
+      src="https://spotify-recently-played-readme.vercel.app/api?user=lsb23umq54wmbcfn5ycat5huv"
+      alt="Spotify Recently Listened To">
+  </a>
+</p>
