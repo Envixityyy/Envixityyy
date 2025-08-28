@@ -7,6 +7,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="45" height="45"/>
 </p>
 
-<p align="center">
+<div align="center">
 ![Spotify Recently Listened To](https://spotify-recently-played-readme.vercel.app/api?user=lsb23umq54wmbcfn5ycat5huv)
-</p>
+</div>
