@@ -4,10 +4,7 @@
 </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/ltseverydayyou/ltseverydayyou/refs/heads/output/snake.svg" alt="Snake animation"/>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/2048px-Luau_Logo_%28Programming_Language%29.svg.png" alt="Luau" width="45" height="45"/>
