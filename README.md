@@ -21,7 +21,7 @@ alt="Spotify Recently Listened To"">
 <img
 src="https://lanyard.cnrad.dev/api/852615798999613480"
 alt="Discord Profile"
-height="900"
+width="900"
 />
 </a> 
 </p>
