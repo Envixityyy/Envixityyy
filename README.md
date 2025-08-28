@@ -1,6 +1,8 @@
+<p align="center">
 <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/envixityyy/github-readme-stats)">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=envixityyy&layout=donut&theme=tokyonight"/>
 </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
@@ -16,9 +18,9 @@
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/lsb23umq54wmbcfn5ycat5huv">
-    <img
-      src="https://spotify-recently-played-readme.vercel.app/api?user=lsb23umq54wmbcfn5ycat5huv"
-      alt="Spotify Recently Listened To">
-  </a>
+<a href="https://open.spotify.com/user/lsb23umq54wmbcfn5ycat5huv">
+<img
+src="https://spotify-recently-played-readme.vercel.app/api?user=lsb23umq54wmbcfn5ycat5huv"
+alt="Spotify Recently Listened To">
+</a>
 </p>
