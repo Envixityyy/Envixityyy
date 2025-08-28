@@ -19,7 +19,7 @@ alt="Spotify Recently Listened To">
 </a>
 <a href="https://discord.com/users/852615798999613480">
 <img
-src="(https://lanyard.cnrad.dev/api/852615798999613480"
+src="https://lanyard.cnrad.dev/api/852615798999613480"
 alt="Discord Profile"
 />
 </a> 
