@@ -21,7 +21,9 @@
 <a href="https://open.spotify.com/user/lsb23umq54wmbcfn5ycat5huv">
 <img
 src="https://spotify-recently-played-readme.vercel.app/api?user=lsb23umq54wmbcfn5ycat5huv"
-alt="Spotify Recently Listened To"">
+alt="Spotify Recently Listened To"
+align="center"
+/>
 </a>
 <a href="https://discord.com/users/852615798999613480">
 <img
