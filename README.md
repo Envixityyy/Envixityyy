@@ -2,6 +2,12 @@
 <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/envixityyy/github-readme-stats)">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=envixityyy&layout=donut&theme=tokyonight"/>
 </a>
+<a href="https://github.com/envixityyy/github-readme-stats"
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=envixityyy&theme=tokyonight&rank_icon=github"/>
+</a>
+</p>
+
+<p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/2048px-Luau_Logo_%28Programming_Language%29.svg.png" alt="Luau" width="45" height="45"/>
 <img id="js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="45" height="45" style="border-radius:25%;"/>
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="HTML" width="45" height="45"/>
